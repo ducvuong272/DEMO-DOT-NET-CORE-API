@@ -1,0 +1,14 @@
+/home/vuongdo/RiderProjects/DotNetCoreCodeFirst/DotNetCoreCodeFirst/bin/Debug/netcoreapp2.2/DotNetCoreCodeFirst.deps.json
+/home/vuongdo/RiderProjects/DotNetCoreCodeFirst/DotNetCoreCodeFirst/bin/Debug/netcoreapp2.2/DotNetCoreCodeFirst.runtimeconfig.json
+/home/vuongdo/RiderProjects/DotNetCoreCodeFirst/DotNetCoreCodeFirst/bin/Debug/netcoreapp2.2/DotNetCoreCodeFirst.runtimeconfig.dev.json
+/home/vuongdo/RiderProjects/DotNetCoreCodeFirst/DotNetCoreCodeFirst/bin/Debug/netcoreapp2.2/DotNetCoreCodeFirst.dll
+/home/vuongdo/RiderProjects/DotNetCoreCodeFirst/DotNetCoreCodeFirst/bin/Debug/netcoreapp2.2/DotNetCoreCodeFirst.pdb
+/home/vuongdo/RiderProjects/DotNetCoreCodeFirst/DotNetCoreCodeFirst/obj/Debug/netcoreapp2.2/DotNetCoreCodeFirst.csprojAssemblyReference.cache
+/home/vuongdo/RiderProjects/DotNetCoreCodeFirst/DotNetCoreCodeFirst/obj/Debug/netcoreapp2.2/DotNetCoreCodeFirst.csproj.CoreCompileInputs.cache
+/home/vuongdo/RiderProjects/DotNetCoreCodeFirst/DotNetCoreCodeFirst/obj/Debug/netcoreapp2.2/DotNetCoreCodeFirst.RazorAssemblyInfo.cache
+/home/vuongdo/RiderProjects/DotNetCoreCodeFirst/DotNetCoreCodeFirst/obj/Debug/netcoreapp2.2/DotNetCoreCodeFirst.RazorAssemblyInfo.cs
+/home/vuongdo/RiderProjects/DotNetCoreCodeFirst/DotNetCoreCodeFirst/obj/Debug/netcoreapp2.2/DotNetCoreCodeFirst.AssemblyInfoInputs.cache
+/home/vuongdo/RiderProjects/DotNetCoreCodeFirst/DotNetCoreCodeFirst/obj/Debug/netcoreapp2.2/DotNetCoreCodeFirst.AssemblyInfo.cs
+/home/vuongdo/RiderProjects/DotNetCoreCodeFirst/DotNetCoreCodeFirst/obj/Debug/netcoreapp2.2/DotNetCoreCodeFirst.RazorTargetAssemblyInfo.cache
+/home/vuongdo/RiderProjects/DotNetCoreCodeFirst/DotNetCoreCodeFirst/obj/Debug/netcoreapp2.2/DotNetCoreCodeFirst.dll
+/home/vuongdo/RiderProjects/DotNetCoreCodeFirst/DotNetCoreCodeFirst/obj/Debug/netcoreapp2.2/DotNetCoreCodeFirst.pdb
